@@ -29,6 +29,6 @@ class nossoHeroi{
     }
 }
 
-let heroi = new nossoHeroi("Zidug","28", "monge")
+let heroi = new nossoHeroi("Zidug","28", "mago")
 
 heroi.ataqueHeroi()
